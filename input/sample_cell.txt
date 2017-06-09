@@ -1,0 +1,220 @@
+CELLNAME x76gpsiorx_sqlch_datsampler
+qn10rightdum x76gpsioadtshr_n2natxxa d:fl4 g1:vss g2:vss s1:nn14 s2:vss vss:vss 
+in5<0> x76gpsioadtshr_n2patxxa d:nn1 g:ck s:nn2 vss:vss 
+qp13<7> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+qp5<0> x76gpsioadtshr_p2patxxa b:vcctr d:q g:qob s:vcctr vss:vss 
+ip10 x76gpsiorx_custom_p4patxxa b:vcctr d:sb g:s s:vcctr vss:vss 
+in5<1> x76gpsioadtshr_n2patxxa d:nn1 g:ck s:nn2 vss:vss 
+qn22<0> x76gpsiorx_custom_n4patxxa d:r g:s s:vss vss:vss 
+qp5<1> x76gpsioadtshr_p2patxxa b:vcctr d:q g:qob s:vcctr vss:vss 
+qn22<1> x76gpsiorx_custom_n4patxxa d:r g:s s:vss vss:vss 
+qp5<2> x76gpsioadtshr_p2patxxa b:vcctr d:q g:qob s:vcctr vss:vss 
+qp18<0> x76gpsiorx_custom_p2patxxa b:vcctr d:nnp g:ckb s:vcctr vss:vss 
+qp13rightdum x76gpsiorx_custom_p4datrxa b:vcctr s:nn2 vss:vss 
+qn2<10> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qp5<3> x76gpsioadtshr_p2patxxa b:vcctr d:q g:qob s:vcctr vss:vss 
+qp18<1> x76gpsiorx_custom_p2patxxa b:vcctr d:nnp g:ckb s:vcctr vss:vss 
+qn14<0> x76gpsiorx_custom_n4patxxa d:q1b g:r s:gt_q1b vss:vss 
+qn2<11> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qn14<1> x76gpsiorx_custom_n4patxxa d:q1b g:r s:gt_q1b vss:vss 
+rstr<0> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+qn2<12> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qn14<2> x76gpsiorx_custom_n4patxxa d:q1b g:r s:gt_q1b vss:vss 
+rstr<1> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+qn2<13> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qp12<0> x76gpsioadtshr_p2patxxa b:vcctr d:qo g:rb s:vcctr vss:vss 
+qp10rightdum x76gpsioadtshr_p2satxxa b:vcctr d:vcctr g:vcctr s:nn12 vss:vss 
+rstr<2> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+ip3<0> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+qn2<14> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qp12<1> x76gpsioadtshr_p2patxxa b:vcctr d:qo g:rb s:vcctr vss:vss 
+qp10 x76gpsioadtshr_p2patxxa b:vcctr d:qo g:qob s:nn12 vss:vss 
+rstr<3> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+qp11 x76gpsioadtshr_p2patxxa b:vcctr d:nn12 g:sbb s:vcctr vss:vss 
+ip3<1> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+qn2<15> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+qp14 x76gpsiorx_custom_p4patxxa b:vcctr d:sbb g:sb s:vcctr vss:vss 
+qp20 x76gpsiorx_custom_p4patxxa b:vcctr d:q1 g:c1en s:ns3 vss:vss 
+qp15 x76gpsiorx_custom_p4patxxa b:vcctr d:vcctr g:c1enb s:ns2 vss:vss 
+rstr<4> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+qp16 x76gpsiorx_custom_p4patxxa b:vcctr d:q1b g:c1en s:vcctr vss:vss 
+ip3<2> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+qp17 x76gpsiorx_custom_p4patxxa b:vcctr d:vcctr g:fben s:ns3 vss:vss 
+ip0<0> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+rstr<5> x76gpsiorx_custom_n4patxxa d:r g:ck s:vss vss:vss 
+ip3<3> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+maindiff x76gpsiorx_sqlch_sampler_diff nn1:nn1 nn2:nn2 vcctr:vcctr vin:vin vip:vip vs:s_maindiff vss:vss 
+ip0<1> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+ip3<4> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+ip0<2> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qp7<0> x76gpsioadtshr_p2patxxa b:vcctr d:qob g:sb s:vcctr vss:vss 
+ip3<5> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+ip0<3> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qn19<0> x76gpsioadtshr_n2patxxa d:qb g:qo s:vss vss:vss 
+qp7<1> x76gpsioadtshr_p2patxxa b:vcctr d:qob g:sb s:vcctr vss:vss 
+ip3<6> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+ip0<4> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qn19<1> x76gpsioadtshr_n2patxxa d:qb g:qo s:vss vss:vss 
+qp4<0> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+ip3<7> x76gpsiorx_custom_p4patxxa b:vcctr d:s g:r s:nn1 vss:vss 
+qp10leftdum x76gpsioadtshr_p2satxxa b:vcctr d:nn12 g:vcctr s:vcctr vss:vss 
+ip0<5> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qpkbn<0> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qn19<2> x76gpsioadtshr_n2patxxa d:qb g:qo s:vss vss:vss 
+qp9rightdum x76gpsioadtshr_p2satxxa b:vcctr d:vcctr g:vcctr s:nn11 vss:vss 
+qp4<1> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+ip0<6> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qpkbn<1> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qn19<3> x76gpsioadtshr_n2patxxa d:qb g:qo s:vss vss:vss 
+in1<0> x76gpsiorx_custom_n4patxxa d:s g:r s:vss vss:vss 
+qp4<2> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+ip0<7> x76gpsiorx_custom_p2patxxa b:vcctr d:s_maindiff g:ck s:vcctr vss:vss 
+qpkbn<2> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+in1<1> x76gpsiorx_custom_n4patxxa d:s g:r s:vss vss:vss 
+qp4<3> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+qn13<0> x76gpsiorx_custom_n2patxxa d:nnn g:ckb s:vss vss:vss 
+qpkbn<3> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qp4<4> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+qn13<1> x76gpsiorx_custom_n2patxxa d:nnn g:ckb s:vss vss:vss 
+qpkbn<4> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qp4<5> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+qn13<2> x76gpsiorx_custom_n2patxxa d:nnn g:ckb s:vss vss:vss 
+qp9leftdum x76gpsioadtshr_p2satxxa b:vcctr d:nn11 g:vcctr s:vcctr vss:vss 
+in51rightdum x76gpsioadtshr_n2satxxa d:nn2 g:vss s:vss vss:vss 
+qpkbn<5> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qp4<6> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+qn13<3> x76gpsiorx_custom_n2patxxa d:nnn g:ckb s:vss vss:vss 
+qpkbn<6> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+in50rightdum x76gpsioadtshr_n2satxxa d:nn1 g:vss s:vss vss:vss 
+qp4<7> x76gpsiorx_custom_p2patxxa b:vcctr d:s_offdiff g:ck s:vcctr vss:vss 
+qpkbn<7> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vip s:nnp vss:vss 
+qn9leftdum x76gpsioadtshr_n2satxxa d:nn13 g:vss s:vss vss:vss 
+qn2<0> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+qp3rightdum x76gpsiorx_custom_p4datlxa b:vcctr s:nn1 vss:vss 
+qn2<1> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+in51leftdum x76gpsioadtshr_n2satxxa d:nn2 g:vss s:vss vss:vss 
+qn2<2> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+qn2<3> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+offpair x76gpsiorx_sqlch_sampler_diff nn1:nn1 nn2:nn2 vcctr:vcctr vin:vosn vip:vosp vs:s_offdiff vss:vss 
+qpkbp<0> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn18<0> x76gpsioadtshr_n2patxxa d:q g:qob s:vss vss:vss 
+qn2<4> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+qpkbp<1> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn18<1> x76gpsioadtshr_n2patxxa d:q g:qob s:vss vss:vss 
+qp19<0> x76gpsioadtshr_p2patxxa b:vcctr d:qb g:qo s:vcctr vss:vss 
+qn2<5> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+qpkbp<2> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn0 x76gpsiorx_custom_n4patxxa d:rbb g:rb s:vss vss:vss 
+qn18<2> x76gpsioadtshr_n2patxxa d:q g:qob s:vss vss:vss 
+qn10leftdum x76gpsioadtshr_n2natxxa d:fl3 g1:vss g2:vss s1:vss s2:nn14 vss:vss 
+qn1 x76gpsiorx_custom_n4patxxa d:sbb g:sb s:vss vss:vss 
+qp19<1> x76gpsioadtshr_p2patxxa b:vcctr d:qb g:qo s:vcctr vss:vss 
+qn15<0> x76gpsiorx_custom_n4patxxa d:q1 g:s s:gt_q1 vss:vss 
+qp3leftdum x76gpsiorx_custom_p4datlxa b:vcctr s:nn1 vss:vss 
+qn3 x76gpsiorx_custom_n4patxxa d:q1 g:c1enb s:gt_q3 vss:vss 
+qp13leftdum x76gpsiorx_custom_p4datlxa b:vcctr s:nn2 vss:vss 
+qn9rightdum x76gpsioadtshr_n2satxxa d:nn13 g:vss s:vss vss:vss 
+qn4 x76gpsiorx_custom_n4patxxa d:vss g:fben s:gt_q3 vss:vss 
+qn2<6> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+qpkbp<3> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn5 x76gpsiorx_custom_n4patxxa d:sb g:s s:vss vss:vss 
+qn6 x76gpsiorx_custom_n4patxxa d:rb g:r s:vss vss:vss 
+qn18<3> x76gpsioadtshr_n2patxxa d:q g:qob s:vss vss:vss 
+qp19<2> x76gpsioadtshr_p2patxxa b:vcctr d:qb g:qo s:vcctr vss:vss 
+qn15<1> x76gpsiorx_custom_n4patxxa d:q1 g:s s:gt_q1 vss:vss 
+qn8 x76gpsioadtshr_n2patxxa d:nn13 g:sb s:vss vss:vss 
+qn9 x76gpsioadtshr_n2patxxa d:qob g:qo s:nn13 vss:vss 
+qn2<7> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1b vss:vss 
+rsts<0> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qpkbp<4> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qp0 x76gpsiorx_custom_p4patxxa b:vcctr d:q1b g:r s:ns1 vss:vss 
+qp1 x76gpsiorx_custom_p4patxxa b:vcctr d:vcctr g:c1enb s:ns1 vss:vss 
+qp2 x76gpsiorx_custom_p4patxxa b:vcctr d:q1 g:s s:ns2 vss:vss 
+qp19<3> x76gpsioadtshr_p2patxxa b:vcctr d:qb g:qo s:vcctr vss:vss 
+qn15<2> x76gpsiorx_custom_n4patxxa d:q1 g:s s:gt_q1 vss:vss 
+qp3 x76gpsiorx_custom_p4patxxa b:vcctr d:rbb g:rb s:vcctr vss:vss 
+qn12<0> x76gpsioadtshr_n2patxxa d:qo g:sbb s:vss vss:vss 
+qn2<8> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+rsts<1> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qpkbp<5> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qp6 x76gpsiorx_custom_p4patxxa b:vcctr d:rb g:r s:vcctr vss:vss 
+qp8 x76gpsioadtshr_p2patxxa b:vcctr d:nn11 g:rbb s:vcctr vss:vss 
+qn12<1> x76gpsioadtshr_n2patxxa d:qo g:sbb s:vss vss:vss 
+qp9 x76gpsioadtshr_p2patxxa b:vcctr d:qob g:qo s:nn11 vss:vss 
+qp13<0> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+qn2<9> x76gpsiorx_custom_n4patxxa d:vss g:c1en s:gt_q1 vss:vss 
+rsts<2> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qpkbp<6> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn7<0> x76gpsioadtshr_n2patxxa d:qob g:rbb s:vss vss:vss 
+in50leftdum x76gpsioadtshr_n2satxxa d:nn1 g:vss s:vss vss:vss 
+qp13<1> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+rsts<3> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qpkbp<7> x76gpsiorx_custom_p4patxxa b:vcctr d:nnn g:vin s:nnp vss:vss 
+qn7<1> x76gpsioadtshr_n2patxxa d:qob g:rbb s:vss vss:vss 
+qp13<2> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+rsts<4> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qp13<3> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+rsts<5> x76gpsiorx_custom_n4patxxa d:s g:ck s:vss vss:vss 
+qp13<4> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+qn10 x76gpsioadtshr_n2patxxa d:qo g:qob s:nn14 vss:vss 
+qn11 x76gpsioadtshr_n2patxxa d:nn14 g:rb s:vss vss:vss 
+qp13<5> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+qp13<6> x76gpsiorx_custom_p4patxxa b:vcctr d:r g:s s:nn2 vss:vss 
+CELLNAME x76gpsioadtshr_p2satxxa
+stckp0 g50ipa20001ntn b:b d:sd01 g:g s:s vss:vss 
+stckp1 g50ipa20001ntn b:b d:d g:g s:sd01 vss:vss 
+CELLNAME x76gpsiorx_custom_n2patxxa
+mqn0 n s:s g:g d:d b:vss 
+mqn1 n s:s g:g d:d b:vss 
+CELLNAME x76gpsiorx_custom_p2patxxa
+mqn2 p s:s g:g d:d b:b 
+mqn3 p s:s g:g d:d b:b 
+CELLNAME x76gpsiorx_sqlch_sampler_diff
+ip1<4> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1<5> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1<6> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1left x76gpsiorx_custom_p4datlxa b:vcctr s:nn1 vss:vss 
+ip1<7> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip2left x76gpsiorx_custom_p4datlxa b:vcctr s:nn2 vss:vss 
+ip2<0> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<1> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<2> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<3> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<4> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<5> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<6> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip2<7> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vin s:nn2 vss:vss 
+ip1right x76gpsiorx_custom_p4datrxa b:vcctr s:nn1 vss:vss 
+ip1<0> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1<1> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1<2> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip1<3> x76gpsiorx_custom_p4patxxa b:vcctr d:vs g:vip s:nn1 vss:vss 
+ip2right x76gpsiorx_custom_p4datrxa b:vcctr s:nn2 vss:vss 
+CELLNAME x76gpsiorx_custom_p4datrxa
+mqp1 p s:s g:b d:sd01 b:b 
+mqp2 p s:b g:b d:sd01 b:b 
+CELLNAME x76gpsioadtshr_n2natxxa
+qn0 g50ina20001ntn d:d g:g1 s:s1 vss:vss vssx:vss 
+qn1 g50ina20001ntn d:d g:g2 s:s2 vss:vss vssx:vss 
+CELLNAME x76gpsiorx_custom_p4datlxa
+mqp1 p s:s g:b d:sd01 b:b 
+mqp2 p s:b g:b d:sd01 b:b 
+CELLNAME x76gpsioadtshr_p2patxxa
+qp2 g50ipa20001ntn b:b d:d g:g s:s vss:vss 
+qp3 g50ipa20001ntn b:b d:d g:g s:s vss:vss 
+CELLNAME g50ipa20001ntn
+mqp0 p s:d g:g d:s b:b 
+CELLNAME x76gpsioadtshr_n2satxxa
+stckn0 g50ina20001ntn d:sd01 g:g s:s vss:vss vssx:vss 
+stckn1 g50ina20001ntn d:d g:g s:sd01 vss:vss vssx:vss 
+CELLNAME x76gpsiorx_custom_n4patxxa
+mqn0 n s:s g:g d:d b:vss 
+mqn1 n s:s g:g d:d b:vss 
+CELLNAME x76gpsioadtshr_n2patxxa
+qn0 g50ina20001ntn d:d g:g s:s vss:vss vssx:vss 
+qn1 g50ina20001ntn d:d g:g s:s vss:vss vssx:vss 
+CELLNAME g50ina20001ntn
+mqn0 n s:s g:g d:d b:vssx 
+CELLNAME x76gpsiorx_custom_p4patxxa
+mqp0 p s:s g:g d:d b:b 
+mqp1 p s:s g:g d:d b:b 
