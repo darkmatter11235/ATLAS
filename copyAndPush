@@ -11,3 +11,4 @@ message="Commit at $ts"
 echo "$message"
 echo "HELLO"
 git commit -a -m "$message"
+git push
