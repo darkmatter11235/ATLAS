@@ -2,7 +2,7 @@
 
 # Define a timestamp function
 timestamp() {
-  date +"%D - %M - %y at %T"
+  date +"%D at %T"
 }
 scp -r -oHostKeyAlgorithms=+ssh-dss pmangala@scci71752.sc.intel.com:/nfs/site/disks/infra_work_05/pmangala/ATLAS/* ~/Documents/GitHub/ATLAS/
 git add .
